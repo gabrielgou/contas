@@ -12,15 +12,4 @@
 somar <- function(x,y){
   return (x+y)
 }
-#' @export
-subtrair <- function(x,y){
-  return (x-y)
-}
-#' @export
-multiplicar <- function(x,y){
-  return (x*y)
-}
-#' @export
-dividir <- function(x,y){
-  return (x/y)
-}
+
