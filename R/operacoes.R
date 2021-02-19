@@ -12,7 +12,7 @@
 somar <- function(x,y){
   return (x+y)
 }
-# @export
+#' @export
 subtrair <- function(x,y){
   return (x-y)
 }
